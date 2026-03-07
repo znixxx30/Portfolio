@@ -1,18 +1,75 @@
-<p align="center">
-  <img src="https://i.ibb.co/v4Z95fq6/image.png" alt="Banner" width="100%"/>
-</p>
+# 🚀 Developer Portfolio
 
-# Run and deploy your Portfolio Web App
+This repository contains the source code for my **personal developer portfolio website**.
+The portfolio showcases my projects, technical skills, and experience as a developer.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
+* Modern responsive UI
+* Smooth animations and clean layout
+* Sections for **About, Skills, Projects, and Contact**
+* Optimized for desktop and mobile devices
+* Fast build system using **Vite**
 
-## Run Locally
+## 🛠 Tech Stack
 
-**Prerequisites:**  Node.js
+* **Frontend:** TypeScript, HTML, CSS
+* **Build Tool:** Vite
+* **Version Control:** Git & GitHub
+* **Deployment:** Vercel (planned)
 
+## 📂 Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+```
+portfolio/
+│
+├── src/            # Source code
+├── public/         # Static assets
+├── index.html      # Main HTML file
+├── package.json    # Project dependencies
+├── vite.config.ts  # Vite configuration
+└── README.md
+```
+
+## ⚙️ Run Locally
+
+1. Clone the repository
+
+```
+git clone https://github.com/znixxx30/portfolio.git
+```
+
+2. Navigate into the project
+
+```
+cd portfolio
+```
+
+3. Install dependencies
+
+```
+npm install
+```
+
+4. Start development server
+
+```
+npm run dev
+```
+
+The project will run locally at:
+
+```
+http://localhost:3000
+```
+
+## 📌 Future Improvements
+
+* Add new projects
+* Improve UI animations
+* Integrate blog section
+* Enhance performance optimization
+
+## 📬 Contact
+
+Feel free to connect with me through my portfolio once deployed.
