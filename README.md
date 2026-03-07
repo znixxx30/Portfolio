@@ -16,7 +16,7 @@ The portfolio showcases my projects, technical skills, and experience as a devel
 * **Frontend:** TypeScript, HTML, CSS
 * **Build Tool:** Vite
 * **Version Control:** Git & GitHub
-* **Deployment:** Vercel (planned)
+* **Deployment:** Vercel 
 
 ## 📂 Project Structure
 
@@ -30,6 +30,11 @@ portfolio/
 ├── vite.config.ts  # Vite configuration
 └── README.md
 ```
+## 🌐 Live Portfolio
+
+Visit my portfolio here:
+
+https://portfolio-znixx.vercel.app
 
 ## ⚙️ Run Locally
 
