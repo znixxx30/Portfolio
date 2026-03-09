@@ -1,4 +1,4 @@
-# 🚀 Developer Portfolio
+# 🚀 Anshuman's Portfolio
 
 This repository contains the source code for my **personal developer portfolio website**.
 The portfolio showcases my projects, technical skills, and experience as a developer.
