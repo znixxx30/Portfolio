@@ -27,10 +27,10 @@ export default function Hero() {
           <p className="text-xl text-text-secondary mb-10 max-w-lg leading-relaxed">
             A Computer Science Student and Aspiring Software Engineer specializing in building futuristic digital experiences.
           </p>
-          
+
           <div className="flex flex-wrap gap-4">
-            <a 
-              href="https://drive.google.com/uc?export=download&id=176ZqLNyFaRDrZoExy6bowp2TSVDeKB6j"
+            <a
+              href="https://drive.google.com/uc?export=download&id=1Jp1S4hWz2Rs6b22wuSRl1GlOL_kNksX6"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent hover:bg-accent-hover text-white px-8 py-4 rounded-xl font-bold flex items-center gap-2 transition-all transform hover:scale-105 shadow-xl shadow-accent/20"
