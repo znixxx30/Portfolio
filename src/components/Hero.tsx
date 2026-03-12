@@ -30,7 +30,7 @@ export default function Hero() {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="https://drive.google.com/uc?export=download&id=1Jp1S4hWz2Rs6b22wuSRl1GlOL_kNksX6"
+              href="https://drive.google.com/uc?export=download&id=1INmdHZJW6zV-cAaADBafHUqvECna_9U3"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent hover:bg-accent-hover text-white px-8 py-4 rounded-xl font-bold flex items-center gap-2 transition-all transform hover:scale-105 shadow-xl shadow-accent/20"

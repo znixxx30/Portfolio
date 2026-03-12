@@ -18,7 +18,7 @@ const projects = [
     id: 2,
     title: 'AI Codebase Explainer',
     category: 'AI',
-    image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop',
+    image: 'https://i.ibb.co/prJFq9JZ/dashboard.png?q=80&w=1000&auto=format&fit=crop',
     tags: ['Python', 'FAISS', 'Gemini API'],
     github: 'https://github.com/znixxx30/ai-codebase-explainer.git',
     link: 'https://github.com/znixxx30/ai-codebase-explainer.git',
